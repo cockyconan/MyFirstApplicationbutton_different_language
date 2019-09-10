@@ -1,0 +1,15 @@
+<resources>
+
+    <string name="welcome_msg">我喜欢安卓开发</string>
+    <string name="new_text_ex_3">你好Android</string>
+    <string name="app_name">Different Language</string>
+    <string name="language_cn">语言</string>
+    <string name="language_en">Language</string>
+    <string name="language_jp">言語</string>
+    <string name="language_kr">언어</string>
+    <string name="change_language_cn">改变语言</string>
+    <string name="change_language_en">Change language</string>
+    <string name="change_language_jp">言語を変更する</string>
+    <string name="change_language_kr">언어 변경</string>
+
+</resources>
